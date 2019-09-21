@@ -1,2 +1,2 @@
 #!/bin/sh
-git --work-tree=/home/pi/dnd-character-sheet --git-dir=/home/pi/repo/dnd-character-sheet.git checkout -f
+git --work-tree=/home/pi/www/dnd-character-sheet --git-dir=/home/pi/repo/dnd-character-sheet.git checkout -f
